@@ -1,0 +1,36 @@
+footer{
+    background-color: blueviolet;
+    color: azure;
+}
+header{background-color: aqua;text-align: center;padding: 20px
+
+    
+}
+
+section{
+    background-color: aqua;
+    text-align: justify;
+    display: grid;
+
+}
+
+
+article{
+    background-color: aqua;
+    grid-template-columns: 2/5;
+
+
+
+
+@media (max-width: 600px) {
+.menu {
+    flex-direction: column;
+    align-items: flex-start;
+}
+encabezado{
+    flex-direction: columna; /* coloca los elementos verticales. */
+    align-items: centro;
+
+
+    
+    
